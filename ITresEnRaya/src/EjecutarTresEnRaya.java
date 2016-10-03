@@ -9,7 +9,7 @@ import pe.edu.upeu.PrincipalTresEnRaya;
 
 /**
  *
- * @author Alumnos2
+ * @author Henry
  */
 public class EjecutarTresEnRaya {
  
